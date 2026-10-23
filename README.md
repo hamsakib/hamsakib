@@ -10,8 +10,8 @@
 I build production web apps end to end, from database schema and APIs to polished, responsive interfaces. I designed, built and run [skinmaxbd.com](https://skinmaxbd.com), a live skincare e-commerce platform in Bangladesh with phone login, courier integrations, an AI shopping assistant and a full admin back office. I enjoy full-stack product work and connecting AI to real data so it does useful work.
 
 - 🛒 Running and improving **Skinmax BD**, my live e-commerce platform (Next.js + PostgreSQL)
-- 🧪 Building **Glowra**, a full-stack skincare marketplace with Express, MongoDB and role-based dashboards
-- ⚡ Exploring **Next.js App Router**, server components and Firebase authentication
+- 🧪 Built **Glowra**, a full-stack skincare marketplace with Express, MongoDB and role-based dashboards
+- ⚡ Exploring **Next.js App Router** and Firebase authentication (see **Dhaka Pulse**)
 - 🤖 Building AI automations with LLM APIs and n8n at Quantmax Automation
 - 💬 Ask me about React, Next.js, Node.js, MongoDB or e-commerce
 - 📫 Reach me at **hamsakib03@gmail.com**
@@ -28,6 +28,8 @@ I build production web apps end to end, from database schema and APIs to polishe
 
 | Project | What it is | Links |
 | --- | --- | --- |
+| **Glowra** | Full-stack skincare marketplace: Next.js, Express, MongoDB, JWT roles, dashboards with charts | [Live](https://glowra-client.vercel.app) · [Client](https://github.com/hamsakib/glowra-client) · [Server](https://github.com/hamsakib/glowra-server) |
+| **Dhaka Pulse** | Event discovery app for Dhaka: Next.js App Router, Firebase Auth | [Live](https://dhaka-pulse.vercel.app) · [Code](https://github.com/hamsakib/dhaka-pulse) |
 | **Skinmax BD** | Live skincare e-commerce platform: Next.js, PostgreSQL, Supabase, AI assistant | [Live](https://skinmaxbd.com) |
 | **AI Lead Qualifier** | LLM service that scores sales leads, updates HubSpot and alerts Slack | [Code](https://github.com/hamsakib/ai-lead-qualifier) |
 | **Developer Portfolio** | My portfolio with project details, skills and resume | [Live](https://hasan-al-mahmud-dev.vercel.app) · [Code](https://github.com/hamsakib/dev-portfolio) |
